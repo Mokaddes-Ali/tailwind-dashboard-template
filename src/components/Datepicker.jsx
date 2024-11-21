@@ -5,6 +5,8 @@ function Datepicker({
   align
 }) {
 
+
+  
   const options = {
     mode: 'range',
     static: true,
